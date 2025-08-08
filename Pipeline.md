@@ -4,6 +4,7 @@
 |----|-----------------------------------------------|--------------------|-------------|--------------|
 | 1  | Theme – Songs – Concept Choosing              | F                   |             |              |
 | 2  | Creating a pipeline                           | F                   |             |              |
+| 2  | Budge Calculation                           | F                   |             |              |
 | 3  | Contact with each collaborator                | F                   |             |              |
 | 4  | Song Writing – Lyrics for each song           | F                   |             |              |
 | 5  | Producing – Arranging – Demo for each song    | F - Yavuz Alp Demirci - Berk Özdoğan |             |              |
