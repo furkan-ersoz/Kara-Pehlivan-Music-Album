@@ -17,7 +17,7 @@
 ## Producers
 | #  | Role                          | Exp                                                       | Person |
 |----|------------------------------|----------------------------------------------------------------|--------------|
-| 1  | Prodüktör (Producer)         | Genel müziksel yön ve proje vizyonu                             | Furkan Ersöz             |
+| 1  | Prodüktör (Producer)         | Genel müziksel yön ve proje vizyonu                             | Furkan Ersöz, Yavuz Alp Demirci            |
 | 2  | Kayıt Mühendisi              | Stüdyoda kayıt alma süreci                                      | Furkan Ersöz             |
 | 3  | Mix Mühendisi                | Tüm seslerin dengelenmesi ve miks işlemi                        | Furkan Ersöz              |
 | 4  | Mix Tavsiyecisi              | İkinci kulak – mix üzerine yorum ve geri bildirim               | Batuhan - Miraç             |
@@ -27,9 +27,9 @@
 ## Out of Music
 | #  | Rol                          | Exp                                                       | Person |
 |----|------------------------------|----------------------------------------------------------------|--------------|
-| 1  | Albüm Kapak Tasarımcısı      | Kapak görseli, poster, logo                                     | S?             |
+| 1  | Albüm Kapak Tasarımcısı      | Kapak görseli, poster                                     | S?             |
 | 2  | Sosyal Medya İçerik Üreticisi| Reels, lyrics video, tanıtım içerikleri                         | ?             |
 | 3  | Tanıtım Danışmanı (PR)       | Medya, röportaj, influencer, blog, e-bülten                     | ?             |
 | 4  | Yayın Danışmanı              | Spotify, Apple, YouTube Music için dağıtım süreci               | ?             |
-| 5  | Promosyon Tavsiyecisi        | Kampanya içeriğine dair dış kulak yorumları                     | ?             |
+| 5  | Promosyon Tavsiyecisi        | Reklam belirleme                     | ?             |
 | 6  | Klip                         | Klip planlama, çekim, yönetim                                   | Comp?             |
