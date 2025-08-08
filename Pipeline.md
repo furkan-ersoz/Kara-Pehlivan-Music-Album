@@ -7,7 +7,7 @@
 | 3  | Contact with each collaborator                | F                   |             |              |
 | 4  | Song Writing – Lyrics for each song           | F                   |             |              |
 | 5  | Producing – Arranging – Demo for each song    | F - Yavuz Alp Demirci - Berk Özdoğan |             |              |
-| 6  | Recording for each song                       | F - Yavuz Alp Demirci - Efe Rasim Beğik |             |              |
+| 6  | Recording for each song                       | F - Yavuz Alp Demirci - Efe Rasim Beğik - Onur Aktaş |             |              |
 | 7  | Mixing for each song                          | F                   |             |              |
 | 8  | Feedback from mixes                           | Batuhan - Miraç                   |             |              |
 | 9  | Mastering for episode 1                       | ?                   |             |              |
