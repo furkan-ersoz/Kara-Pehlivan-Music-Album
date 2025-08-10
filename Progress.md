@@ -19,3 +19,7 @@ Yükselen ve yavaşlayan bölümler dikkatlice düzenlenmeli, yüksek yerlerde u
 
 ## Slow - Rock Tavırlı Şarkılar | Kara Gün Dostu
 Yaylı partisyonları? Slow başlayan, nakaratı Ayna tarzıyla yapılabilir.
+
+
+# Contact With Each Collaborator
+
