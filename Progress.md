@@ -22,4 +22,10 @@ Yaylı partisyonları? Slow başlayan, nakaratı Ayna tarzıyla yapılabilir.
 
 
 # Contact With Each Collaborator
+Müzisyen üyelerkle görüşülmesine karşın hala iletişim kurulması gereken insanalar mevcut. Bunlar:
 
+- PR danışmanı
+- Yayınlama stratejisti
+- Kameraman
+- Video editör
+- Promote stratejisti
