@@ -33,3 +33,14 @@
 | 4  | Yayın Danışmanı              | Spotify, Apple, YouTube Music için dağıtım süreci               | ?             |
 | 5  | Promosyon Tavsiyecisi        | Reklam belirleme                     | ?             |
 | 6  | Klip                         | Klip planlama, çekim, yönetim                                   | Comp?             |
+
+## Music Video, Content Creation
+| # | Rol                  | Exp                                                 | Person       |
+| - | -------------------- | --------------------------------------------------- | ------------ |
+| 1 | Kameramanlar         | Klip planlama, çekim, set görüntüleri               | ?            |
+| 2 | Yönetmen             | Klip yönetimi, sahne kurgusu, genel yaratıcı vizyon | Furkan Ersöz |
+| 3 | Senaryo              | Hikâye yazımı, şarkıya uygun senaryo geliştirme     | ?            |
+| 4 | Sosyal Medya Content | Reels, lyrics video, tanıtım içerikleri, e-bülten   | ?            |
+| 5 | Video Editor         | Kurgulama, renk düzenleme, efekt, final export      | ?            |
+| 6 | Cast                 | Oyunculuk, performans, klipte rol alma              | Comp?        |
+
