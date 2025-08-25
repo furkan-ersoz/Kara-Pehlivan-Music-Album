@@ -37,7 +37,7 @@
 | # | Rol                  | Exp                                                 | Person       |
 | - | -------------------- | --------------------------------------------------- | ------------ |
 | 1 | Kameramanlar         | Klip planlama, çekim, set görüntüleri               | ?            |
-| 2 | Yönetmen             | Klip yönetimi, sahne kurgusu, genel yaratıcı vizyon | Furkan Ersöz |
+| 2 | Yönetmen             | Klip yönetimi, sahne kurgusu, genel yaratıcı vizyon | ?            |
 | 3 | Senaryo              | Hikâye yazımı, şarkıya uygun senaryo geliştirme     | ?            |
 | 4 | Sosyal Medya Content | Reels, lyrics video, tanıtım içerikleri, e-bülten   | ?            |
 | 5 | Video Editor         | Kurgulama, renk düzenleme, efekt, final export      | ?            |
