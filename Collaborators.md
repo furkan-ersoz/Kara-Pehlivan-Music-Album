@@ -32,7 +32,6 @@
 | 3  | Tanıtım Danışmanı (PR)       | Medya, röportaj, influencer, blog, e-bülten                     | ?             |
 | 4  | Yayın Danışmanı              | Spotify, Apple, YouTube Music için dağıtım süreci               | ?             |
 | 5  | Promosyon Tavsiyecisi        | Reklam belirleme                     | ?             |
-| 6  | Klip                         | Klip planlama, çekim, yönetim                                   | Comp?             |
 
 ## Music Video, Content Creation
 | # | Rol                  | Exp                                                 | Person       |
