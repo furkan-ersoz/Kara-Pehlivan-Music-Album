@@ -3,16 +3,17 @@
 ## Musicians
 | #  | Role                          | Exp                                                       | Person |
 |----|------------------------------|----------------------------------------------------------------|--------------|
-| 1  | Vokalist                     | Ana vokal performansı                                           | Furkan Ersöz |
+| 1  | Vokalist                     | Ana vokal performansı                                          | Furkan Ersöz |
 | 2  | Lead Gitarist               | Solo ve melodik gitar partisyonları                             | Yavuz Alp Demirci, Furkan Ersöz |
 | 3  | Ritim Gitarist              | Akor bazlı arka plan gitarları                                  | Furkan Ersöz |
 | 4  | Bas Gitarist                | Alt frekans groove desteği                                      | Efe Rasim Beğik |
-| 5  | Baterist                     | Ritmik temel                                                     | Berk Özdoğan |
+| 5  | Baterist                     | Ritmik temel                                                   | Berk Özdoğan |
 | 6  | Klavye / Synth (opsiyonel)  | Atmosfer ve armonik zenginlik                                   | ? |
-| 7  | Back Vocalist               | Destek vokaller ve armoniler                                    | ?  |
-| 8  | Söz Yazarı (Lyricist)       | Şarkı sözlerinin yazımı                                         | Furkan Ersöz |
-| 9  | Besteci (Composer)          | Melodi, akor yapısı tasarımı                                    | Furkan Ersöz |
-| 10 | Aranjör (Arranger)          | Şarkı formu, dinamik yapı, bölümler                             | Furkan Ersöz |
+| 7  | Keman - Yaylı Partisyonları | Yaylı eşlik enstrumanları kaydı                                 | Ferhat Köse? |
+| 8  | Back Vocalist               | Destek vokaller ve armoniler                                    | ? |
+| 9  | Söz Yazarı (Lyricist)       | Şarkı sözlerinin yazımı                                         | Furkan Ersöz |
+| 10  | Besteci (Composer)          | Melodi, akor yapısı tasarımı                                   | Furkan Ersöz |
+| 11 | Aranjör (Arranger)          | Şarkı formu, dinamik yapı, bölümler                             | Furkan Ersöz |
 
 ## Producers
 | #  | Role                          | Exp                                                       | Person |
