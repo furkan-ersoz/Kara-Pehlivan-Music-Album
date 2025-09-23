@@ -28,11 +28,11 @@
 ## Out of Music
 | #  | Rol                          | Exp                                                       | Person |
 |----|------------------------------|----------------------------------------------------------------|--------------|
-| 1  | Albüm Kapak Tasarımcısı      | Kapak görseli, poster                                     | Sude Kılıçarslan |
+| 1  | Albüm Kapak Tasarımcısı      | Kapak görseli, poster                                           | Sude Kılıçarslan, Öykü karakuş |
 | 2  | Sosyal Medya İçerik Üreticisi| Reels, lyrics video, tanıtım içerikleri                         | Furkan Ersöz |
 | 3  | Tanıtım Danışmanı (PR)       | Medya, röportaj, influencer, blog, e-bülten                     | ?             |
 | 4  | Yayın Danışmanı              | Spotify, Apple, YouTube Music için dağıtım süreci               | ?             |
-| 5  | Promosyon Tavsiyecisi        | Reklam belirleme                     | ?             |
+| 5  | Promosyon Tavsiyecisi        | Reklam belirleme                                                | ?             |
 
 ## Music Video, Content Creation
 | # | Rol                  | Exp                                                 | Person       |
@@ -41,6 +41,6 @@
 | 2 | Yönetmen             | Klip yönetimi, sahne kurgusu, genel yaratıcı vizyon | Selin Aktaş? |
 | 3 | Senaryo              | Hikâye yazımı, şarkıya uygun senaryo geliştirme     | Berk Özdoğan, ...? |
 | 4 | Sosyal Medya Content | Reels, lyrics video, tanıtım içerikleri, e-bülten   | Furkan Ersöz |
-| 5 | Video Editor         | Kurgulama, renk düzenleme, efekt, final export      | Barış Baş? |
+| 5 | Video Editor         | Kurgulama, renk düzenleme, efekt, final export      | Barış Baş?, Kaan Cenk Kaya? |
 | 6 | Cast                 | Oyunculuk, performans, klipte rol alma              | All Team? + Shall We |
 
