@@ -46,7 +46,7 @@ Senin gibidir niceleri.
 <br>
 <br>
 <br>
-Nedir lan susturun köpeği,
+Nedir lan susturun deliyi,
 
 Konuşur öyle ileri geri,
 
