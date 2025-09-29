@@ -25,7 +25,7 @@
 | 5  | Mastering Mühendisi          | Son ses seviyesi ayarı, frekans dengeleme                       | Orçun Ayata? |
 | 7  | Kayıt Asistanı               | Teknik ekipman kurulumları, stüdyo içi destek                   | Onur Aktaş? |
 
-## Out of Music
+## Visibility, Promotion
 | #  | Rol                          | Exp                                                       | Person |
 |----|------------------------------|----------------------------------------------------------------|--------------|
 | 1  | Albüm Kapak Tasarımcısı      | Kapak görseli, poster                                           | Sude Kılıçarslan, Öykü karakuş |
@@ -34,13 +34,29 @@
 | 4  | Yayın Danışmanı              | Spotify, Apple, YouTube Music için dağıtım süreci               | ?             |
 | 5  | Promosyon Tavsiyecisi        | Reklam belirleme                                                | ?             |
 
-## Music Video, Content Creation
-| # | Rol                  | Exp                                                 | Person       |
-| - | -------------------- | --------------------------------------------------- | ------------ |
-| 1 | Kameramanlar         | Klip planlama, çekim, set görüntüleri               | Demir Nuriyev?, Arda İrdem? |
-| 2 | Yönetmen             | Klip yönetimi, sahne kurgusu, genel yaratıcı vizyon | Selin Aktaş? |
-| 3 | Senaryo              | Hikâye yazımı, şarkıya uygun senaryo geliştirme     | Berk Özdoğan, ...? |
-| 4 | Sosyal Medya Content | Reels, lyrics video, tanıtım içerikleri, e-bülten   | Furkan Ersöz |
-| 5 | Video Editor         | Kurgulama, renk düzenleme, efekt, final export      | Barış Baş?, Kaan Cenk Kaya? |
-| 6 | Cast                 | Oyunculuk, performans, klipte rol alma              | All Team? + Shall We |
+## Music Video
+| # | Rol                 | Açıklama                                                      | Kişi (Aday)                 |
+| - | ------------------- | ------------------------------------------------------------- | --------------------------- |
+| 1 | Proje Yöneticisi    | Klip planlama, takvim, koordinasyon, set yönetimi             | Nesli Aydın?                |
+| 2 | Yönetmen            | Klip yönetimi, sahne kurgusu, genel yaratıcı vizyon           | Ömer Talha Tüten?           |
+| 3 | Yönetmen Yardımcısı | Yönetmene destek, sahne düzeni, ekip koordinasyonu            | Nesli Aydın?                |
+| 4 | Sanat Yönetmeni     | Görsel konsept, sahne tasarımı, estetik vizyon                | Selin Aktaş                 |
+| 5 | Kameramanlar        | Kamera kullanımı, görüntü yönetimi, çekim uygulamaları        | Demir Nuriyev, Arda İrdem?  |
+| 6 | Işık Tasarımı       | Işık düzeni, sahne atmosferi, çekim kalitesi                  | SW                          |
+| 7 | Senaryo             | Hikâye yazımı, şarkıya uygun senaryo ve storyboard geliştirme | Berk Özdoğan, ...?          |
+| 8 | Video Editor        | Kurgulama, renk düzenleme, efekt, final export                | Barış Baş?, Kaan Cenk Kaya? |
+| 9 | Sosyal Medya İçerik | Reels, lyrics video, teaser, tanıtım içerikleri               | Furkan Ersöz                |
+| 10 | Cast               | Oyunculuk, performans, klipte rol alma                        | All Team? + Shall We        |
+
+
+
+
+
+
+
+
+
+
+
+
 
