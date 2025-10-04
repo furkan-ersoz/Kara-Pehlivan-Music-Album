@@ -22,8 +22,8 @@
 | 2  | Kayıt Mühendisi              | Stüdyoda kayıt alma süreci                                      | Furkan Ersöz |
 | 3  | Mix Mühendisi                | Tüm seslerin dengelenmesi ve miks işlemi                        | Furkan Ersöz |
 | 4  | Mix Tavsiyecisi              | İkinci kulak – mix üzerine yorum ve geri bildirim               | Berke Miraç Orkunoğlu |
-| 5  | Mastering Mühendisi          | Son ses seviyesi ayarı, frekans dengeleme                       | Orçun Ayata? |
-| 7  | Kayıt Asistanı               | Teknik ekipman kurulumları, stüdyo içi destek                   | Onur Aktaş? |
+| 5  | Mastering Mühendisi          | Son ses seviyesi ayarı, frekans dengeleme                       | ? |
+| 7  | Kayıt Asistanı               | Teknik ekipman kurulumları, stüdyo içi destek                   | ? |
 
 ## Visibility, Promotion
 | #  | Rol                          | Exp                                                       | Person |
