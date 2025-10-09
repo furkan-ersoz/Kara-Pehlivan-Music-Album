@@ -96,6 +96,57 @@ Yurdumdan kara pehlivan.
 <br>
 <br>
 <br>
+## Hasret
+Hasret göğsümü kaplayan bir duman,
+
+Üflemem kalsın orada,
+
+İstemem gitmesini.
+<br>
+<br>
+<br>
+Seni unutmayı beceremem işte,
+
+Herhalde hep kalıcak,
+
+Gözlerin benimle.
+<br>
+<br>
+<br>
+Hasret çektiğim gecelerin birinde,
+
+Ay bir baktı gözlerime,
+
+Beni yalnız o anladı.
+<br>
+<br>
+<br>
+Hayat paçası çamura batmış çocuk,
+
+Çıkartmaz gözlerini,
+
+Bir daha karşıma.
+<br>
+<br>
+<br>
+Hasret uçuştu, bi konuştu benimle,
+
+Bi baktı gözlerime,
+
+Susuzdu tüm sözleri.
+<br>
+<br>
+<br>
+Bi yay gibiydi kaşları, çatıldı.
+
+Konuştu dudakları,
+
+Kaybettim oyunları.
+<br>
+<br>
+<br>
+
+
 ## Senden Özge
 Deli gözlerinden damla istedim
 
