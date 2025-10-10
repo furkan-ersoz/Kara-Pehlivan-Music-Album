@@ -9,5 +9,5 @@
 | 5 | Senden Özge | Slow - Rock | 4:54 | 2 | %100 | %100 | %0 | %0 | %0 | ? | - | - | - |
 | 6 | Hasretim | Blues - Rock | 4:02 | 2 | %60 | %70 | %0 | %0 | %0 | ? | - | - | - |
 | 7 | Kuş | Slow - Rock | 4:02 | 3 | %100 | %80 | %0 | %0 | %0 | ? | %10 | - | - |
-| 8 | Devrilmedi | Rock - Electronic | 4:02 | 3 | %100 | %20 | %0 | %0 | %0 | ? | - | - | - |
+| 8 | Devrilmedi | Rock - Electronic | 4:02 | 3 | %40 | %20 | %0 | %0 | %0 | ? | - | - | - |
 
