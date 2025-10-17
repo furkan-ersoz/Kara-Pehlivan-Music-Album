@@ -7,9 +7,9 @@
 | 2  | Budge Calculation                           | F                   |             |              |
 | 3  | Contact with each collaborator                | F                   |             |              |
 | 4  | Song Writing – Lyrics for each song           | F                   |             |              |
-| 5  | Producing – Arranging – Demo for each song    | F - Yavuz Alp Demirci - Berk Özdoğan | September 30 |              |
-| 6  | Recording for each song                       | F - Yavuz Alp Demirci - Efe Rasim Beğik - Onur Aktaş |October 15|              |
-| 7  | Mixing for each song                          | F                   |November 30|  |
+| 5  | Producing – Arranging – Demo for each song    | F - Yavuz Alp Demirci - Berk Özdoğan | October 30 |              |
+| 6  | Recording for each song                       | F - Yavuz Alp Demirci - Onur Aktaş | November 15 |              |
+| 7  | Mixing for each song                          | F                   | November 30 |  |
 | 8  | Feedback from mixes                           | Batuhan - Miraç                   |             |              |
 | 7  | Re-Mixing for each song                       | F                   |December 15 | |
 | 9  | Mastering for episode 1                       | ?                   |December 30|  |
