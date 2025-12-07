@@ -2,8 +2,8 @@
 
 | # | Song | Genre | Time | Episode | Lyrics | Arrangement | Recording | Mix | Master | Release Date | Music Video? | Promo? | Notes |
 |---|------|-------|------|---------|--------|------|-----------|-----|--------|---------------|--------|--------|--------|
-| 1 | Akşamüstü | Pop - Alternative | 4:02 | 1 | %70 | %30 | %0 | %0 | %0 | ? | %0 | - | - |
-| 2 | Deli Bakış | Rock | 4:02 | 1 | %100 | %80 | %0 | %0 | %0 | ? | - | - | - |
+| 1 | Akşamüstü | Pop - Alternative | 3.57 | 1 | %70 | %50 | %0 | %0 | %0 | ? | %0 | - | - |
+| 2 | Deli Bakış | Rock | 4:20 | 1 | %100 | %100 | %0 | %0 | %0 | ? | - | - | - |
 | 3 | Hasret | Slow | 4:02 | 1 | %100 | %50 | %0 | %0 | %0 | ? | - | - | - |
 | 4 | Kara Pehlivan | Rock | 4:32 | 2 | %100 | %95 | %0 | %0 | %0 | ? | %0 | - | - |
 | 5 | Senden Özge | Slow - Rock | 4:54 | 2 | %90 | %100 | %0 | %0 | %0 | ? | - | - | - |
